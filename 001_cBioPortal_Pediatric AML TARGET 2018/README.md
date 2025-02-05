@@ -76,6 +76,7 @@ git push -u origin master
 - **Pediatric Acute Myeloid Leukemia TARGET 2018.ipynb**: Jupyter Notebook for the project analysis.
 - **aml_target_2018_pub_clinical_data.tsv**: Raw clinical data in TSV format.
 - **aml_target_2018_pub_clinical_data.xlsx**: Raw clinical data in Excel format.
+- **README.md**: Summary of git version control task.
 
 ## Key Takeaways
 
@@ -92,6 +93,7 @@ Git-Version-Control/
 │   ├── Pediatric Acute Myeloid Leukemia TARGET 2018.ipynb
 │   ├── aml_target_2018_pub_clinical_data.tsv
 │   └── aml_target_2018_pub_clinical_data.xlsx
+│   └── README.md
 ```
 
 ## Future Enhancements
